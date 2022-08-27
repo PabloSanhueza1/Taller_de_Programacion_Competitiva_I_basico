@@ -10,7 +10,7 @@ class RecipeFraction
 public:
     double getFraction(vector<string>, vector<string>);
 };
-//test
+
 double RecipeFraction::getFraction(vector<string> recipe, vector<string> ingredients)
 {
     double f = 0.e-9;
