@@ -51,7 +51,7 @@ int WallRepair::bricksRequired(vector<string> wallRows)
         cout << wallRows[i] << endl;
     return cont_dot;
 }
-
+/*
 int main()
 {
     vector<string> a =
@@ -70,4 +70,4 @@ int main()
     int r = v.bricksRequired(a);
     cout << r << endl;
     return 0;
-}
+}*/

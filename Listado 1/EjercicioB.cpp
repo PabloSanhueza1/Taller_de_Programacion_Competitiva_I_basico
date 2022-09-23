@@ -60,7 +60,7 @@ int CandyBoxes::remainingCandies(vector<int> candies)
         return res;
     }
 }
-
+/*
 int main()
 {
     int n;
@@ -75,4 +75,4 @@ int main()
     }
     cout << c.remainingCandies(candy) << endl;
     return 0;
-}
+}*/

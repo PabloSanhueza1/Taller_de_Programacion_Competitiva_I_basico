@@ -1,0 +1,10 @@
+ "  This is       put  it      that       "
+ " a text          all       is           "
+ "in  several    together      nicely     "
+ "columns.       into  a      formatted.  "
+ "               single                   "
+ " Your  job        text                  "
+ "is     to                   Good luck!  "
+
+esp: 3
+This is

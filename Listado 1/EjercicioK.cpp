@@ -24,7 +24,7 @@ int AdvertisingAgency::numberOfRejections(vector<int> requests)
     }
     return r;
 }
-
+/*
 int main()
 {
     vector<int> a = {1, 2, 1, 2};
@@ -35,4 +35,4 @@ int main()
     cout << r << endl;
 
     return 0;
-}
+}*/

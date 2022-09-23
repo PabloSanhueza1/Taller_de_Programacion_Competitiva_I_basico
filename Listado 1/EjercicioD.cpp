@@ -45,7 +45,7 @@ vector<string> StrangeComparator::compareString(vector<string> a, vector<string>
     return r;
 }
 
-
+/*
 int main()
 {
     vector<string> a = {"", "abc", "bde", "ahsdjka"};
@@ -59,3 +59,4 @@ int main()
 
     return 0;
 }
+*/

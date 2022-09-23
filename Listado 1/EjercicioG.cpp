@@ -87,7 +87,7 @@ string EllysTimeMachine::getTime(string time)
     }
     return hora;
 }
-
+/*
 int main()
 {
     string a = "01:00";
@@ -97,4 +97,4 @@ int main()
     cout << r << endl;
 
     return 0;
-}
+}*/

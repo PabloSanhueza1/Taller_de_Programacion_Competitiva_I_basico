@@ -52,7 +52,7 @@ int TVRemoteText::numPresses(string text)
     moves++; // enter
     return moves;
 }
-
+/*
 int main()
 {
     string a = {
@@ -65,4 +65,4 @@ int main()
     cout << "resultado: " << r << endl;
 
     return 0;
-}
+}*/
